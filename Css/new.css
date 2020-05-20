@@ -1,0 +1,45 @@
+body{
+    background-image:url("../Images/yell.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2,h3{
+    color:white;
+    margin-left: 25px;
+    
+}
+h1{
+    color:rgb(85, 26, 139);
+    margin-left: 35px;
+
+}
+.about,.s,.more,.edu,.c{
+    border-radius: 25px;
+    width: 800px;
+    height: 600px;
+    margin-left:350px;
+    margin-right: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: black;
+    color:#fff;
+}
+pre{
+    margin-left: 30px;
+}
+table
+{
+   margin-top: 25px;
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 25px;
+}
+tr:hover {
+    background-color: gray;
+}
+li,p,ol,ul,a{
+
+   color:white;
+   margin-left:50px; 
+}
